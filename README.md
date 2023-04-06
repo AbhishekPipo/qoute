@@ -1,2 +1,2 @@
-# qoute generator 
+# quote generator 
 js project
