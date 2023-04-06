@@ -1,0 +1,2 @@
+# qoute generator 
+js project
